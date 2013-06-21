@@ -1,6 +1,0 @@
-== Google Glass + Rails
-
-== Getting Started with
-
-1. gem "google-api-client"
-2. gem 'glass-rails'
